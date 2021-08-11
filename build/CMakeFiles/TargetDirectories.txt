@@ -1,0 +1,3 @@
+/Users/harrismaung/Desktop/CS3241R/Lab/Lab4_todo/build/CMakeFiles/rebuild_cache.dir
+/Users/harrismaung/Desktop/CS3241R/Lab/Lab4_todo/build/CMakeFiles/edit_cache.dir
+/Users/harrismaung/Desktop/CS3241R/Lab/Lab4_todo/build/CMakeFiles/Lab4.dir
